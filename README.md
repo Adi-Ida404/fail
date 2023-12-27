@@ -1,2 +1,2 @@
 # Adi_Project
-carreer website for aditya
+career website for aditya
